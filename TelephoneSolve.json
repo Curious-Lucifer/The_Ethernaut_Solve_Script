@@ -1,0 +1,20 @@
+[
+    {
+        "inputs": [
+            {
+                "internalType": "contract Telephone",
+                "name": "_telephone",
+                "type": "address"
+            },
+            {
+                "internalType": "address",
+                "name": "_owner",
+                "type": "address"
+            }
+        ],
+        "name": "solve",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    }
+]
